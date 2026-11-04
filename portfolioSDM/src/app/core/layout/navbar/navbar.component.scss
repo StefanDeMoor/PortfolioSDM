@@ -4,8 +4,15 @@
   justify-content: space-between;
   align-items: center;
 
-  padding: 25px 8%;
-  background-color: #003049;
+  padding: 25px 4%;
+  background-color: #669bbc;
+
+  .portfolio {
+    font-size: large;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+  }
 
   .logo {
     color: white;
